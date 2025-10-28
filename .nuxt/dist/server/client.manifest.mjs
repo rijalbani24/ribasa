@@ -1,0 +1,1 @@
+export { default } from "file:///D:/Project/rizal-nuxt/ribasa/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
