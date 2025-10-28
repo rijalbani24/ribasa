@@ -1,0 +1,1 @@
+@keyframes fadeUpLoop{0%,to{opacity:1;transform:translateY(20px)}50%{opacity:1;transform:translateY(0)}}.animate-fadeUpLoop{animation:fadeUpLoop 3s ease-in-out infinite}.delay-300{animation-delay:.3s}@keyframes zoomInOut{0%,to{transform:scale(1)}50%{transform:scale(1.08)}}.animate-zoomInOut{animation:zoomInOut 6s ease-in-out infinite}html{scroll-behavior:smooth}
